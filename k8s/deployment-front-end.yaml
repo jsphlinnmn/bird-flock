@@ -15,7 +15,7 @@ spec:
         app: birds-app-front-end-jsphlinnmn
     spec:
       containers:
-        - image: 'ghcr.io/jsphlinnmn/birds-app-front-end:f8690a1afd43a2e3ff3e544f5fe24941fbec8c88'
+        - image: 'ghcr.io/jsphlinnmn/birds-app-front-end:bfcb3dddf1b28e1d23aec09ed1883fdc691e3c3a'
           name: birds-app-front-end
           ports:
             - containerPort: 80
